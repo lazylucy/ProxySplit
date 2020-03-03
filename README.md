@@ -38,7 +38,7 @@ Example: ./proxysplit.py proxybrokerlist chainsfriendlylist 1
 
 
 
-* **LazyLucy** [PurpleBooth](https://github.com/lazylucy)
+* **LazyLucy** [LazyLucy](https://github.com/lazylucy)
 
 
 ## License
