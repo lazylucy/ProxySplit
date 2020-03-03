@@ -35,6 +35,7 @@ Example: ./proxysplit.py proxybrokerlist chainsfriendlylist 1
 * several inputs at once
 * add more formats
 * fix the problems that occur if proxybroker output has more than 1 type(for example: <Proxy XX 1.00s [HTTP,HTTPS]...> )
+* input mixed lists
 
 
 
